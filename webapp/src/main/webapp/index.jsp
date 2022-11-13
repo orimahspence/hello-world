@@ -1,8 +1,11 @@
 FILL IN YOUR DATA
 <form action="action_page.php"
   <div class="container">
-	  <h1>To see how Continuous Deployment works.</h1>
-    <p>Please fill in this form .</p>
+
+	  
+	  <h1>Welcome to SPENCE DEVOPS CLASS, let see what happend when merged.</h1>
+    <p>Please fill in this form to create a CVS Enterprise account.</p>
+
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
