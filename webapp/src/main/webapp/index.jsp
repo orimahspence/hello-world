@@ -3,7 +3,7 @@ FILL IN YOUR DATA
   <div class="container">
 
 	  
-	  <h1>Welcome to SPENCE DEVOPS CLASS, update on TKAY Computer.</h1>
+	  <h1>Welcome to SPENCE DEVOPS CLASS, update on TKAY Computer and see how it works.</h1>
     <p>Please fill in this form to create a CVS Enterprise account.</p>
 
     <hr>
